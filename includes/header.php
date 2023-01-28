@@ -65,7 +65,7 @@ if (isset($_SESSION['id'])) {
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a href="index.php" class=" navbar-brand"><i class="fa fa-clock-o fa-lg"></i> Prutor</a>
+			<a href="index.php" class=" navbar-brand"><i class="fa fa-clock-o fa-lg"></i> <b>MOVIE</b></a>
 		</div>
 		<div class="navbar-right">
 			<div id="navbar" class="navbar-collapse collapse">

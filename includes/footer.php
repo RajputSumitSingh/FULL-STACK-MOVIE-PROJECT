@@ -1,7 +1,7 @@
 
 <hr>
 <footer>
-	<p class="text-center"><a href="index.php">&copy; Prutor <?php echo date("Y"); ?></a></p>
+	<p class="text-center"><a href="index.php">&copy; MOVIE PRODUCTION <?php echo date("Y"); ?></a></p>
 </footer>
 
 <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>

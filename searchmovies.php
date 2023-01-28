@@ -1,6 +1,6 @@
 <?php
 
-$page_title = "Prutor.ai: Movies";
+$page_title = " Movies";
 
 require_once ('includes/header.php');
 require_once('includes/database.php');

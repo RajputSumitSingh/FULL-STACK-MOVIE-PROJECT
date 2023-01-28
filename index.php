@@ -1,5 +1,5 @@
 <?php
-	$page_title = "Prutor.ai";
+	$page_title = "MOVIE RATING";
 	include_once('includes/header.php');
 ?>
 
@@ -16,8 +16,8 @@
 				<div class="jumbotron">
 					<div class="container">
 						<div class="carousel-caption">
-							<h1>Prutor REVIEWS</h1>
-							<p>Welcome to the Prutor Movie Review Service!</p>
+							<h1>MOVIE REVIEWS</h1>
+							<p>Welcome to the <b>SUMIT SINGH</b> Movie Review Service!</p>
 						</div>
 					</div>
 				</div>
